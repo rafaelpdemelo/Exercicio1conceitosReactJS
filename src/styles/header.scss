@@ -1,6 +1,11 @@
 header.header {
-  background: var(--blue);
+  background: #fa6b05;
   padding-top: 2rem;
+
+.imgLogo {
+  width: 50px;
+  padding-right: 10px;
+  }
   
   > div {
     max-width: 1120px;
